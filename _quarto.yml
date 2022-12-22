@@ -11,10 +11,6 @@ website:
   navbar:
     right:
       - about.qmd
-      - icon: facebook
-        href: https://www.facebook.com/sintaikaka
-      - icon: instagram
-        href: https://www.instagram.com/sintaikaka/
       - icon: rss
         href: index.xml
 format:
