@@ -6,6 +6,8 @@ execute:
 
 website:
   title: "新台嘉の部落格"
+  site-url: https://blog.sintaika.com
+  description: "新台嘉的作者們寫寫嘉義的歷史、文化、技術、設計與社會。"
   navbar:
     right:
       - about.qmd
@@ -13,11 +15,13 @@ website:
         href: https://www.facebook.com/sintaikaka
       - icon: instagram
         href: https://www.instagram.com/sintaikaka/
+      - icon: rss
+        href: index.xml
 format:
   html:
     theme:
-      light: minty
-      dark: vapor
+      light: simplex
+      dark: cyborg
     css: styles.css
 
 editor: visual
