@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "65471d4f-5d3a-46c4-a538-836d4bebab10"
+      url: "https://sintaikablog.netlify.app"
