@@ -15,7 +15,7 @@ website:
       - text: Website
         href: https://sintaika.com
       - text: Blog
-        href: https://blog.sintaika.com
+        file: index.qmd
       - about.qmd
     right:
       - icon: rss
