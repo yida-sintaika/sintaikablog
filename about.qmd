@@ -1,6 +1,7 @@
 ---
-title: "關於"
+title: "about"
 image: profile.jpeg
+comments: false
 about:
   template: jolla
   links:
