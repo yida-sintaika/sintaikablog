@@ -9,10 +9,16 @@ website:
   site-url: https://blog.sintaika.com
   description: "新台嘉的作者們寫寫嘉義的歷史、文化、技術、設計與社會。"
   navbar:
-    right:
+    left:
+      - text: Website
+        href: https://sintaika.com
+      - text: Blog
+        href: https://blog.sintaika.com
       - about.qmd
+    right:
       - icon: rss
         href: index.xml
+  page-footer: "本網站除另有標示者外，採用 [CC-BY-3.0-TW-or-later](https://creativecommons.org/licenses/by/3.0/tw/) 授權予公眾自由取用。" 
 format:
   html:
     theme:
